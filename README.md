@@ -275,7 +275,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Ahmed Negida, MD, PhD**  
 
-- 🌐 Website: [negida.net](https://negida.net)
+- 🌐 Website: [https://negidamd.github.io](https://negidamd.github.io)
 - 🔬 ORCID: [0000-0001-5363-6369](https://orcid.org/0000-0001-5363-6369)
 
 ---
