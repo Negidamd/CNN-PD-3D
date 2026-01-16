@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "CNN-PD-3D: Convolutional Neural Network for Automated Parkinson's Disease Detection from Structural 3D MRI"
+version: 1.0.0
+date-released: 2026-01-16
+url: "https://github.com/yourusername/CNN-PD-3D"
+repository-code: "https://github.com/yourusername/CNN-PD-3D"
+license: MIT
+authors:
+  - family-names: "Negida"
+    given-names: "Ahmed"
+    orcid: "https://orcid.org/0000-0001-5363-6369"
+keywords:
+  - parkinson's disease
+  - deep learning
+  - convolutional neural network
+  - MRI
+  - neuroimaging
+  - transfer learning
+  - ResNet-18
+  - 3D CNN
+  - MATLAB
+abstract: >-
+  CNN-PD-3D is a MATLAB-based deep learning toolbox that uses 
+  3D ResNet-18 transfer learning for binary classification of 
+  Parkinson's disease vs. healthy controls from structural 
+  3D MRI brain scans. The tool includes data augmentation 
+  pipelines, training scripts, and a user-friendly GUI for 
+  clinical deployment.
