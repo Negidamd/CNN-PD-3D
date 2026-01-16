@@ -273,7 +273,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Ahmed Negida, MD, MS**  
+**Ahmed Negida, MD, PhD**  
 
 - 🌐 Website: [negida.net](https://negida.net)
 - 🔬 ORCID: [0000-0001-5363-6369](https://orcid.org/0000-0001-5363-6369)
